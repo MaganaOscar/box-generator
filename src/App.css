@@ -46,8 +46,8 @@
 .box {
   margin-right: 1em;
   margin-left: 1em;
-  height: 5em;
-  width: 5em;
+  /* height: 5em;
+  width: 5em; */
   color: white;
   text-align: center;
 }
