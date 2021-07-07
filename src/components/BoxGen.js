@@ -7,8 +7,6 @@ const BoxGen = (props) => {
 
     const createBox = (e) => {
         e.preventDefault();
-        console.log(e.target.color.value)
-        console.log(e.target.size.value)
         if(e.target.size.value === ""){
             e.target.size.value = 4;
         }
